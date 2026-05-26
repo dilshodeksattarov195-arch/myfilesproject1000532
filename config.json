@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperserify",
+        "uuid": 1284780,
+        "checksum": "zas4l"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
